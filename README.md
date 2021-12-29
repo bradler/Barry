@@ -7,4 +7,5 @@ is one I took of Berni describing the Twin's medical and legal files and where t
 
 I'm using my thumb drive as local drive to store files: E:\GitHub\GitHub
 
-Once I upload the movie file to the repository I will use GitHub Pages to publish a URL.
+Once I upload the movie file to the repository I will use GitHub Pages to publish a URL:
+"https://bradler.github.io/Barry/"
